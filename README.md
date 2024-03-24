@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nheroessential
-- 👀 I’m interested in coding and money
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science and Backend development.
+- 🌱 I’m currently learning Phyton, R, SQL, Power Bi, Advanced excel
 - 📫 How to reach me ...+2349057343205 or tofunmiareoye@gmail.com
 
 <!---
